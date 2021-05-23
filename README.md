@@ -1,6 +1,8 @@
 # test
 testinium
 
+##NOT: LÜTFEN 38,39,40. SATIRDA YER ALAN MAIL, PAROLA VE KULLANICI ADINI GİRİNİZ
+
 -	Proje Java programlama dilinde yazılmalıdır.
 -	Proje Maven projesi olarak yazılmalıdır.
 -	Selenium, JUnit ve Log4J kütüphanelerini kullanmanız gerekmektedir.

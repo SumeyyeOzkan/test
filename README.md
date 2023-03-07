@@ -1,5 +1,4 @@
 # test
-testinium
 
 ## **NOT: LÜTFEN 38,39,40. SATIRDA YER ALAN MAIL, PAROLA VE KULLANICI ADINI GİRİNİZ
 
